@@ -1,2 +1,2 @@
 # doc
-documentation
+打越祭に関する(主にHP関連の)ドキュメント
