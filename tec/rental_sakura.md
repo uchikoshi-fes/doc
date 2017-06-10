@@ -4,14 +4,14 @@
 
 まずは[さくらのレンタルサーバのサイト](http://sakura.ne.jp)にアクセスします。
 
-![rental-plans](/img/sakura_rental_plans.png)
+![rental-plans](/img/sakura/sakura_rental_plans.png)
 
 すると、このようにレンタルサーバーのプランが出てきます。
 
 今回はWordPressを使用してサイトを作成しますが、そこまで容量は要らないので、スタンダードプランで契約します。
 他のプランを契約する場合は適宜読み替えてください。なお、この資料の情報は2017年6月時点の情報です。
 
-![init-domain](/img/sakura_init_domain.png)
+![init-domain](/img/sakura/sakura_init_domain.png)
 
 「お申し込みはこちら」というボタンをクリックすると、初期ドメインの入力画面が出てくるので、それを入力(今回の場合は'uchikoshi-fes')したら、「お支払い方法の選択」に進みます。
 
