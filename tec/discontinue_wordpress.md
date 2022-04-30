@@ -46,7 +46,7 @@ https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-page-
   
 Web サイトの読み込み速度をスコアとして算出してくれる Google のサービス「Page Speed Insights」によると、  
 現在の打越祭の HP はモバイルで 47 、 PC は 79 というスコアとなった。  
-![モバイルでは読み込みに 14 秒かかっている](https://media.discordapp.net/attachments/944805427139465306/965746485444624455/121_20220419074902.png)  
+![モバイルでは読み込みに 14 秒かかっている](/img/wp_speed.png)  
 https://pagespeed.web.dev/report?url=https%3A%2F%2Fuchikoshi-fes.jp%2F%25e6%2589%2593%25e8%25b6%258a%25e7%25a5%25ad%25e3%2581%25ab%25e9%2596%25a2%25e3%2581%2597%25e3%2581%25a6%2F&form_factor=mobile  
 
 #### 理由３: プラグインによるセキュリティリスク
