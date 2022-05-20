@@ -1,6 +1,6 @@
 # 第43回打越祭ホームページでの WordPress 廃止について
 
-最終更新: 2022/04/30 (土)  
+最終更新: 2022/05/20 (金)  
 
 ## WordPress を廃止する理由
 
@@ -90,9 +90,9 @@ SSG を使えばあらかじめページを生成するので、
 ### 公開までの流れ
 
 ホームページは基本的に広報部門で開発する。  
-開発中はプレビュー版サイト [https://preview.uchikoshi-fes-2022.pages.dev/](//preview.uchikoshi-fes-2022.pages.dev/) のサイトが更新され、  
+開発中はプレビュー版サイト [https://develop.uchikoshi-fes-2022.pages.dev/](//develop.uchikoshi-fes-2022.pages.dev/) のサイトが更新され、  
 キリのいいところでバージョンアップを行うと本番のサイト [https://uchikoshi-fes-2022.pages.dev/](//uchikoshi-fes-2022.pages.dev/) が更新される。  
-ただしこれは仮の Cloudflare が提供しているドメインなため、本番は [https://uchikoshi-fes.jp/](https://uchikoshi-fes.jp/) をカスタムドメインとして設定したい。  
+ただしこれは Cloudflare が提供している仮のドメインなため、本番は [https://uchikoshi-fes.jp/](https://uchikoshi-fes.jp/) をカスタムドメインとして設定したい。  
 
 ### 来年度以降の引き継ぎについて
 
